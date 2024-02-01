@@ -1,0 +1,688 @@
+﻿++Solution 'ApacheOrcDemo' ‎(2 of 2 projects)
+i:{00000000-0000-0000-0000-000000000000}:ApacheOrcDemo.sln
+++ApacheOrcDotNet
+i:{00000000-0000-0000-0000-000000000000}:ApacheOrcDotNet
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\apacheorcdotnet.csproj
+++Dependencies
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:>534
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:>232
+++ColumnTypes
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\
+++Compression
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\compression\
+++Encodings
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\
+++FluentSerialization
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\fluentserialization\
+++Infrastructure
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\infrastructure\
+++Protocol
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\
+++Statistics
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\
+++Stripes
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\stripes\
+++FileTail.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\filetail.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\filetail.cs
+++IOrcWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\iorcwriter.cs
+++IOrcWriter`.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\iorcwriter`.cs
+++IOrcWriterFactory.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\iorcwriterfactory.cs
+++IStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\istatistics.cs
+++OrcReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\orcreader.cs
+++OrcReader`.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\orcreader`.cs
+++OrcWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\orcwriter.cs
+++OrcWriter`.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\orcwriter`.cs
+++WriterConfiguration.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\writerconfiguration.cs
+++Packages
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:packages
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:packages
+++BinaryReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\binaryreader.cs
+++BinaryWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\binarywriter.cs
+++BinaryWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\binarywriterstatistics.cs
+++BooleanReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\booleanreader.cs
+++BooleanWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\booleanwriter.cs
+++BooleanWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\booleanwriterstatistics.cs
+++ByteReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\bytereader.cs
+++ByteWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\bytewriter.cs
+++ColumnExtensions.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\columnextensions.cs
+++ColumnReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\columnreader.cs
+++ColumnWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\columnwriterstatistics.cs
+++DateReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\datereader.cs
+++DateWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\datewriter.cs
+++DateWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\datewriterstatistics.cs
+++DecimalReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\decimalreader.cs
+++DecimalWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\decimalwriter.cs
+++DecimalWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\decimalwriterstatistics.cs
+++DoubleReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\doublereader.cs
+++DoubleWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\doublewriter.cs
+++DoubleWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\doublewriterstatistics.cs
+++FloatReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\floatreader.cs
+++FloatWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\floatwriter.cs
+++IColumnWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\icolumnwriter.cs
+++IColumnWriter`.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\icolumnwriter`.cs
+++LongReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\longreader.cs
+++LongWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\longwriter.cs
+++LongWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\longwriterstatistics.cs
+++StringReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\stringreader.cs
+++StringWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\stringwriter.cs
+++StringWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\stringwriterstatistics.cs
+++StructWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\structwriter.cs
+++StructWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\structwriterstatistics.cs
+++TimestampReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\timestampreader.cs
+++TimestampWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\timestampwriter.cs
+++TimestampWriterStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\columntypes\timestampwriterstatistics.cs
+++CompressionFactory.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\compression\compressionfactory.cs
+++OrcCompressedBuffer.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\compression\orccompressedbuffer.cs
+++OrcCompressedBufferFactory.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\compression\orccompressedbufferfactory.cs
+++OrcCompressedStream.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\compression\orccompressedstream.cs
+++ZLib.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\compression\zlib.cs
+++BitManipulation.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\bitmanipulation.cs
+++BitReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\bitreader.cs
+++BitWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\bitwriter.cs
+++ByteRunLengthEncodingReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\byterunlengthencodingreader.cs
+++ByteRunLengthEncodingWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\byterunlengthencodingwriter.cs
+++IntegerRunLengthEncodingV2Reader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\integerrunlengthencodingv2reader.cs
+++IntegerRunLengthEncodingV2Writer.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\integerrunlengthencodingv2writer.cs
+++VarIntReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\varintreader.cs
+++VarIntWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\encodings\varintwriter.cs
+++ISerializationTypeConfiguration.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\fluentserialization\iserializationtypeconfiguration.cs
+++SerializationConfiguration.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\fluentserialization\serializationconfiguration.cs
+++SerializationPropertyConfiguration.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\fluentserialization\serializationpropertyconfiguration.cs
+++SerializationTypeConfiguration.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\fluentserialization\serializationtypeconfiguration.cs
+++ConcatenatingStream.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\infrastructure\concatenatingstream.cs
+++DecimalExtensions.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\infrastructure\decimalextensions.cs
+++ListSegment.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\infrastructure\listsegment.cs
+++OrcCompressedBufferFactoryExtensions.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\infrastructure\orccompressedbufferfactoryextensions.cs
+++StaticProtoBuf.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\infrastructure\staticprotobuf.cs
+++StreamSegment.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\infrastructure\streamsegment.cs
+++BloomFilter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\bloomfilter.cs
+++BloomFilterIndex.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\bloomfilterindex.cs
+++ColumnEncoding.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\columnencoding.cs
+++ColumnType.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\columntype.cs
+++Footer.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\footer.cs
+++Metadata.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\metadata.cs
+++PostScript.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\postscript.cs
+++RowIndex.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\rowindex.cs
+++RowIndexEntry.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\rowindexentry.cs
+++Stream.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\stream.cs
+++StripeFooter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\stripefooter.cs
+++StripeInformation.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\stripeinformation.cs
+++StripeStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\stripestatistics.cs
+++UserMetadataItem.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\protocol\usermetadataitem.cs
+++BinaryStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\binarystatistics.cs
+++BucketStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\bucketstatistics.cs
+++ColumnStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\columnstatistics.cs
+++DateStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\datestatistics.cs
+++DecimalStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\decimalstatistics.cs
+++DoubleStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\doublestatistics.cs
+++IBinaryStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\ibinarystatistics.cs
+++IBooleanStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\ibooleanstatistics.cs
+++IColumnStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\icolumnstatistics.cs
+++IDateTimeStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\idatetimestatistics.cs
+++IDecimalStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\idecimalstatistics.cs
+++IDoubleStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\idoublestatistics.cs
+++IIntegerStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\iintegerstatistics.cs
+++IntegerStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\integerstatistics.cs
+++IStringStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\istringstatistics.cs
+++StringStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\stringstatistics.cs
+++TimestampStatistics.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\statistics\timestampstatistics.cs
+++StripeReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\stripes\stripereader.cs
+++StripeReaderCollection.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\stripes\stripereadercollection.cs
+++StripeStreamReader.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\stripes\stripestreamreader.cs
+++StripeStreamReaderCollection.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\stripes\stripestreamreadercollection.cs
+++StripeWriter.cs
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:c:\users\amilkar\source\repos\apacheorc\apacheorcdotnet\stripes\stripewriter.cs
+++NETStandard.Library (2.0.3)
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:>537
+++protobuf-net (3.0.62)
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:>540
+++System.IO.Compression (4.3.0)
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:>536
+++System.Reflection.TypeExtensions (4.7.0)
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:>538
+++System.Runtime.Numerics (4.3.0)
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:>539
+++System.ValueTuple (4.5.0)
+i:{b669c289-2d73-45a4-b764-4c24ea6aa0b9}:>541
+++ApacheOrcDemo
+i:{00000000-0000-0000-0000-000000000000}:ApacheOrcDemo
+++Analyzers
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:analyzers
+++Frameworks
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:frameworks
+++Projects
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:projects
+++Imports
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:>548
+++bin
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\
+++obj
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\
+++ApacheOrcDemo.sln
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\apacheorcdemo.sln
+++OrcFileReader.cs
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\orcfilereader.cs
+++PrettyPrinters.cs
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\prettyprinters.cs
+++Program.cs
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\program.cs
+++SchoolContext.cs
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\schoolcontext.cs
+++Student.cs
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\student.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.7\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\microsoft.netcore.app
+++Microsoft.Data.Analysis (0.19.1)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:>244
+++Microsoft.EntityFrameworkCore (6.0.7)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:>241
+++Microsoft.EntityFrameworkCore.Design (6.0.7)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:>243
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.7)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:>242
+++Sdk.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\sdk\sdk.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Debug
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\
+++ApacheOrcDemo.csproj.nuget.dgspec.json
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\apacheorcdemo.csproj.nuget.dgspec.json
+++ApacheOrcDemo.csproj.nuget.g.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\apacheorcdemo.csproj.nuget.g.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\apacheorcdemo.csproj.nuget.g.props
+++ApacheOrcDemo.csproj.nuget.g.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\apacheorcdemo.csproj.nuget.g.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\apacheorcdemo.csproj.nuget.g.targets
+++project.assets.json
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\project.assets.json
+++project.nuget.cache
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\project.nuget.cache
+++Microsoft.Common.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++net6.0
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\
+++Microsoft.NuGet.ImportBefore.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++runtimes
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\
+++Apache.Arrow.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\apache.arrow.dll
+++ApacheOrcDemo.deps.json
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\apacheorcdemo.deps.json
+++ApacheOrcDemo.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\refint\apacheorcdemo.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\apacheorcdemo.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\ref\apacheorcdemo.dll
+++ApacheOrcDemo.exe
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\apacheorcdemo.exe
+++ApacheOrcDemo.pdb
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.pdb
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\apacheorcdemo.pdb
+++ApacheOrcDemo.runtimeconfig.json
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\apacheorcdemo.runtimeconfig.json
+++ApacheOrcDotNet.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\apacheorcdotnet.dll
+++ApacheOrcDotNet.pdb
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\apacheorcdotnet.pdb
+++Humanizer.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\humanizer.dll
+++Microsoft.Data.Analysis.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.data.analysis.dll
+++Microsoft.Data.SqlClient.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Abstractions.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.extensions.caching.abstractions.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Options.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.extensions.primitives.dll
+++Microsoft.Identity.Client.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.ML.DataView.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.ml.dataview.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\microsoft.win32.systemevents.dll
+++protobuf-net.Core.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\protobuf-net.core.dll
+++protobuf-net.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\protobuf-net.dll
+++students.orc
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\students.orc
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\students.orc
+++System.Configuration.ConfigurationManager.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\system.drawing.common.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\system.windows.extensions.dll
+++ref
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\ref\
+++refint
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\refint\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++ApacheOrcDemo.AssemblyInfo.cs
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.assemblyinfo.cs
+++ApacheOrcDemo.AssemblyInfoInputs.cache
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.assemblyinfoinputs.cache
+++ApacheOrcDemo.assets.cache
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.assets.cache
+++ApacheOrcDemo.csproj.AssemblyReference.cache
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.csproj.assemblyreference.cache
+++ApacheOrcDemo.csproj.BuildWithSkipAnalyzers
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.csproj.buildwithskipanalyzers
+++ApacheOrcDemo.csproj.CopyComplete
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.csproj.copycomplete
+++ApacheOrcDemo.csproj.CoreCompileInputs.cache
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.csproj.corecompileinputs.cache
+++ApacheOrcDemo.csproj.FileListAbsolute.txt
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.csproj.filelistabsolute.txt
+++ApacheOrcDemo.GeneratedMSBuildEditorConfig.editorconfig
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.generatedmsbuildeditorconfig.editorconfig
+++ApacheOrcDemo.genruntimeconfig.cache
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.genruntimeconfig.cache
+++ApacheOrcDemo.GlobalUsings.g.cs
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apacheorcdemo.globalusings.g.cs
+++apphost.exe
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\obj\debug\net6.0\apphost.exe
+++Microsoft.EntityFrameworkCore.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\.nuget\packages\microsoft.entityframeworkcore\6.0.7\buildtransitive\net6.0\microsoft.entityframeworkcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\.nuget\packages\microsoft.entityframeworkcore.design\6.0.7\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++unix
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\unix\
+++win
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-x86\
+++Microsoft.NET.ILLink.Tasks.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++lib
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\unix\lib\
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\
+++native
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-arm\native\
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-x64\native\
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-x86\native\
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.NET.props
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++netcoreapp3.0
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Docker.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\program files\microsoft visual studio\2022\professional\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++myData.csv
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\mydata.csv
+++myData.orc
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\bin\debug\net6.0\mydata.orc
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\mydata.orc
+++OrcFileWriter.cs
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\orcfilewriter.cs
+++tes.orc
+i:{a281992b-4aaa-4a95-979b-71b6558d8384}:c:\users\amilkar\source\repos\apacheorc\apacheorcdemo\tes.orc
